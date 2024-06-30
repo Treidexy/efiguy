@@ -1,0 +1,10 @@
+.{
+    .name = "efiguy",
+    .version = "0.0.0",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "",
+    },
+}
