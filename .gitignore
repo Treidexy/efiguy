@@ -10,5 +10,4 @@ zig-cache/
 
 #
 
-image/efi/boot/*.efi
-image/NvVars
+image/
